@@ -1,0 +1,6 @@
+F:\Training_Days\Training_DotNetConsoleApp\CalLib\CalLib\bin\Debug\CalLib.dll
+F:\Training_Days\Training_DotNetConsoleApp\CalLib\CalLib\bin\Debug\CalLib.pdb
+F:\Training_Days\Training_DotNetConsoleApp\CalLib\CalLib\obj\Debug\CalLib.csprojAssemblyReference.cache
+F:\Training_Days\Training_DotNetConsoleApp\CalLib\CalLib\obj\Debug\CalLib.csproj.CoreCompileInputs.cache
+F:\Training_Days\Training_DotNetConsoleApp\CalLib\CalLib\obj\Debug\CalLib.dll
+F:\Training_Days\Training_DotNetConsoleApp\CalLib\CalLib\obj\Debug\CalLib.pdb
